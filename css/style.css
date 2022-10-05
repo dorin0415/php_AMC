@@ -1,0 +1,216 @@
+html,body {
+ height: 100%; margin: 0px; padding: 0px;
+ font-family: cursive;
+ 
+
+
+  }
+
+h1,h2,h3,h4,h5,h6{
+
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+#SideMenu a{
+	color: #000000;
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+    background-color: #d9534f;
+}
+
+#SideMenu a:hover{
+	color:#ffffff;
+	background-color: #1ab394;
+	font-weight: bold;
+	display: block;
+}
+
+.navbar-nav li{
+	font-weight:bold;
+	font-family:Bitter,Georgia,Times,"Times New Roman",serif;
+	font-size:20px;
+
+}
+
+
+#titlu{
+	font-family: Arial, Helvetica, sans-serif;
+	color:black;
+	font-weight: bold;
+}
+#titlu:hover{
+	color:#0090db;
+}
+
+.bk{
+	  height:100vh;
+	background-color: blue;
+		 -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+.subtitlu{
+	text-align: center;
+	padding: 10px;
+}
+
+.padd{
+	padding:10px;
+}
+
+.ErrCautare{
+	color: red;
+}
+
+.Success{
+	color: green;
+}
+
+.center{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.spadd{
+	padding:250px;
+}
+
+.identificare{
+	 font-weight: bold;
+	 font-size: 20px;
+}
+
+.vk{
+	background-color: green;
+	  height:100vh;
+	  	 -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+.bold{
+	 font-weight: bold;
+	 font-size:20px;
+	 color: red;
+}
+
+.red{
+	color: red;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+th{
+    border-right-width:medium;
+    border-right-color:#000;
+    border-right-style:groove;
+    width: 5%;
+     -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+
+
+
+
+.paddB{
+	padding-top: 30px;
+}
+
+
+
+
+.paddS{
+	margin-top: 50px;
+}
+
+.green{
+	color: green;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.blue{
+	color: blue;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.txtRed{
+	color:red;
+	text-decoration: bold;
+}
+
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.redbk{
+	background-color: red;
+}
+
+.gk{
+	  height:100vh;
+	background-color: #d9534f;
+		 -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+.link{
+	font-family: Arial;
+	color: green;
+}
+
+.dropdown-menu{
+	margin:0;
+	padding: 0;
+}
+
+.warn{
+	color: red;
+	font-size: 25px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.username{
+	color: #000000;
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+    background-color: #d9534f;
+    display: block;
+}
+
+.smTxt{
+	font-size: 20px;
+}

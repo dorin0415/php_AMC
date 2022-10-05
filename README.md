@@ -10,4 +10,5 @@ Conturi de test(user:parola):
   - adminP:adminP - poate adăuga/șterge angajați
   - adminI:adminI - poate modifica ITP-ul autovehiculelor
   - adminFM:adminFM - poate modfica fișele medicale/avizele psihogice ale angajaților
-  - adminV:adminV - poate adăuga autovehicule, poate edita datele autovehiculelor
+  - adminV:adminV - poate adăuga/șterge autovehicule, poate edita datele autovehiculelor
+  - vizitator:vizitator - are drept de vizualizare a datelor; nu poate modifica nimic
